@@ -1,2 +1,3 @@
 # Misiones
-Investigar los planes 
+* Investigar los planes 
+* Interferirlos
